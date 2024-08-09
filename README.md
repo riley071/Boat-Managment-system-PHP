@@ -1,6 +1,5 @@
 # Boat Managment system PHP
-
-# About the System
+About the System
 
 In particular, this Boat Management System Project in PHP focuses mainly on managing online boats tickets. To be more precise, the system helps to keep track of all online ticket bookings and information. Also, the system displays all the available passengers and routes. In addition, the system allows adding up boat, and ticket details too. Evidently, this project contains an admin panel with an employee and passenger panel. In an overview of this web application, passengers can simply register themselves and log into the system in order to book online tickets. He/she can view a list of available boats with their routes, fares, and others respectively. With it, passengers can book boats by selecting any. For this, the passenger has to check out the online boat reservation by providing a payment code. At last, the passengers can view their tickets from the ticket section.
 # 
@@ -21,8 +20,11 @@ Moreover, the tickets section is divided into three categories, Pending, Approve
 # Employee Panel, Accounting, and More
 
 Talking about the employee panel, there’s a bit of a similar access level for the employees in this system. An employee can also manage boat details, passengers, and tickets. Speaking of tickets, it has the same access as the administrator where the user can manage pending boat tickets. The employees can also view a list of passenger reservations with detailed information. Moving toward the accounting section [Admin Panel], this section displays total sales generated only after the confirmation from the passenger’s boat ticket. In addition to it, the accounting section also highlights the overall reservation numbers. With it, the system also plots out total figures of paid and pending ticket reservations using a pie chart. The user can also export the pie chart data in image format. Besides, both admin and employee can view and update their profiles.
-##
-Last but not least, a clean and simple dashboard is presented with various color combinations for a greater user experience while using this Online boat Ticket Booking System Project in PHP MySQL. For its UI elements, a free open-source CSS framework; Bootstrap is on board with some Vanilla CSS too. Presenting a new Online boat Reservation System Project in PHP MySQL which includes an admin panel with an employee and passengers panel. That too contains all the essential features to follow up and is a knowledgeable resource for learning purposes.
+#
+
+Last but not least, a clean and simple dashboard is presented with various color combinations for a greater user experience while using this Online boat Ticket Booking System Project in PHP MySQL. For its UI elements, a free open-source CSS framework; Bootstrap is on board with some Vanilla CSS too.
+
+Presenting a new Online boat Reservation System Project in PHP MySQL which includes an admin panel with an employee and passengers panel. That too contains all the essential features to follow up and is a knowledgeable resource for learning purposes.
 
 ![8](https://github.com/riley071/Boat-Managment-system-PHP/assets/81653537/29304e6a-5a3f-45e2-a7a4-82c718d6a4ea)
 
@@ -50,8 +52,9 @@ Last but not least, a clean and simple dashboard is presented with various color
 * Database:	MySQL
 * Type:	Web Application
 
+# 
 
-# Instructions: How to Run?#
+# Instructions: How to Run?
 
 After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
 
@@ -69,3 +72,4 @@ After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_N
 All the login details are provided inside the project folder, check that out and enter them in order to use it.
 
 And there you have it, a full setup of the Online boat Reservation System Project in PHP MySQL. For this particular PHP project, PHP Version 5.6, 7.4, 8.1 is required.
+#
