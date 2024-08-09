@@ -28,9 +28,9 @@ Last but not least, a clean and simple dashboard is presented with various color
 
 #Available Features:#
 
-Admin Panel
-Passengers Panel
-Employee Panel
+#Admin Panel
+#Passengers Panel
+#Employee Panel
 Passengers Management
 boat Management
 Online boat Ticket Bookings
