@@ -10,7 +10,7 @@ Before anything, this whole online ticket reservation process from a passenger�
 
 An admin has full control over the system. He/she can manage passengers, boats, accounting, and so on. Here, each and every section has its own respective details such as name, and other important details. Here, an admin can add passenger records directly by filling up the required forms. During the passenger registration, an admin has to provide details such as name, address, contact, and set up login details. The administrator can also manage employee members for the system. For adding an employee, the user has to provide names, and positions, and set up login credentials. Talking about the reservations, an administrator can view all the passenger’s reservation lists from his/her dashboard. Which also highlights all the important details such as names, routes, times, fares, total passengers, and more.
 
-#boat Management#
+# Boat Management
 
 When it comes to projects such as the Online boat Ticket Booking System, it’s a must that it should contain a section to cover boat details too. And there is one. For this online boat ticket system project, the administrator can manage boat records easily. Not just with ease, but also it helps to cover up all the important and required information for the system. In order to add boat details, the administrator has to provide a number of details. Such as the name of the boat with the boat number, route, fare, total seats/passengers, departure time, and more. Here, each and every boat must have its own unique boat number. Besides, the administrator can view, update, and delete boat details. And also, the system users can view and print the boat details.
 
@@ -31,35 +31,41 @@ Last but not least, a clean and simple dashboard is presented with various color
 * Admin Panel
 * Passengers Panel
 * Employee Panel
-Passengers Management
-boat Management
-Online boat Ticket Bookings
-Cancel Ticket Bookings
-View, Print Tickets
-View, Update User Profiles
-Search Available boats
-Employee Management
-Manage Tickets
-Approved, Pending Tickets
-Accounting Overview
+* Passengers Management
+* boat Management
+* Online boat Ticket Bookings
+* Cancel Ticket Bookings
+* View, Print Tickets
+* View, Update User Profiles
+* Search Available boats
+* Employee Management
+* Manage Tickets
+* Approved, Pending Tickets
+* Accounting Overview
+
+# 
+* Project Name:	Online boat Reservation System
+* Language/s Used:	PHP
+* PHP version (Recommended):	5.6, 7.4, 8.1
+* Database:	MySQL
+* Type:	Web Application
 
 
-Project Name:	Online boat Reservation System
-Language/s Used:	PHP
-PHP version (Recommended):	5.6, 7.4, 8.1
-Database:	MySQL
-Type:	Web Application
-
-
-#Instructions: How to Run?#
+# Instructions: How to Run?#
 
 After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
+
 There you’ll find a folder named “htdocs”.
-Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
+Inside the “htdocs” folder, paste the project folder (not the .
+
+zip one, but the extracted one).
 Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
+
 Then, go to the URL “http://localhost/phpmyadmin“.
 Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
 Click on the “Import” tab and choose the database file (.sql) which is provided under the folder named “DATABASE FILE”.
+
 After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
 All the login details are provided inside the project folder, check that out and enter them in order to use it.
+
 And there you have it, a full setup of the Online boat Reservation System Project in PHP MySQL. For this particular PHP project, PHP Version 5.6, 7.4, 8.1 is required.
