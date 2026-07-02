@@ -11,6 +11,7 @@ The Boat Reservation & Management System is designed to digitize and simplify th
 Passengers can register, browse available boats and routes, reserve tickets online, and monitor their bookings, while administrators and employees can efficiently manage boats, passengers, reservations, and financial records.
 
 The system provides a centralized platform that improves operational efficiency, minimizes manual processes, and enhances the overall booking experience.
+
 ![8](https://github.com/riley071/Boat-Managment-system-PHP/assets/81653537/29304e6a-5a3f-45e2-a7a4-82c718d6a4ea)
 ---
 
